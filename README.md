@@ -1,5 +1,5 @@
 # Classification Models Diabetes Prediction
-
+[![My Skills](https://skillicons.dev/icons?i=python)
 
 ## Introduction
 This project is aimed at predicting the onset of diabetes using a dataset that includes various health indicators from female patients of Pima Indian heritage. By employing four different classification models—K-Nearest Neighbors (KNN), Logistic Regression, Support Vector Machine (SVM), and Decision Trees—this endeavor seeks to enhance preventive care and facilitate timely healthcare interventions.
